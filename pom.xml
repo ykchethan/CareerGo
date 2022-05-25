@@ -127,7 +127,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>3.1.0.RELEASE</version>
+            <version>5.2.22.RELEASE</version>
             <exclusions>
                 <exclusion>
                     <groupId>xml-apis</groupId>
